@@ -3,7 +3,7 @@
   "description": "Open-Source bot for Aichat bot",
   "logo": "https://telegra.ph/file/8a3fa88eef5dfd2d0e411.png",
   "keywords": ["aichatbot", "chatbot", "telegram"],
-  "repository": "https://github.com/TEAM-PATRICIA/PatriciaChatbot",
+  "repository": "https://heroku.com/deploy?template=https://github.com/Toxictelegram/chatbot",
   "buildpacks": [{
   "url": "heroku/python"
   }],
